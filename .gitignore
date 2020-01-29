@@ -1,0 +1,8 @@
+.class
+.metadata
+.sonarlint
+.settings
+bin
+.classpath
+.project
+RemoteSystemsTempFiles
